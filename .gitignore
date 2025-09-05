@@ -1,0 +1,6 @@
+bin/
+obj/
+.mypy_cache/
+.venv
+venv/
+python/__pycache__/chroma_db.cpython-312.pyc
